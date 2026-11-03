@@ -90,3 +90,7 @@ cd skills/sportsci-writing && python -m unittest discover tests
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。每个技能文件夹里也有一份。
+
+## 延伸阅读
+
+配合文字检查使用的学术写作资料笔记：[docs/resources/academic-writing](docs/resources/academic-writing/README.zh-CN.md)（[English](docs/resources/academic-writing/README.md)）。

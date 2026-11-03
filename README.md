@@ -91,3 +91,7 @@ cd skills/sportsci-writing && python -m unittest discover tests
 ## License
 
 MIT, see [LICENSE](LICENSE). Each skill folder carries its own copy.
+
+## Further reading
+
+Study notes for the academic-writing sources used with the prose checks: [docs/resources/academic-writing](docs/resources/academic-writing/README.md) ([中文](docs/resources/academic-writing/README.zh-CN.md)).
